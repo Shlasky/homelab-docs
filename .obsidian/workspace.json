@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "9a3fc67baf490aa9",
+    "type": "split",
+    "children": [
+      {
+        "id": "116bdcac063cb612",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5f7dca588c15a68",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cef0df3622fb54e",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc2ae261d89fcd8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff9a34a8b6b051dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5359b1d319ed56c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c8d3cdc23fe40c75",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3f62119284051776",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f5c83aa8a1c009e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "371109c210a5bb45",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "d6549a3b156d9731",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "ec78106cc48f1733",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c7e494bce1b7a37c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d5f7dca588c15a68",
+  "lastOpenFiles": [
+    "09-Project-Mangement/Roadmap.md",
+    "10-Archive",
+    "09-Project-Mangement/Future-Ideas.md",
+    "Untitled.md",
+    "09-Project-Mangement",
+    "07-Monitoring/Alert-Rules.md",
+    "08-Automation/Cron-Jobs.md",
+    "08-Automation/Scripts.md",
+    "08-Automation/n8n-Workflows.md",
+    "00-INDEX.md",
+    "08-Automation",
+    "Current-State-Documentation.md",
+    "07-Monitoring/Metrics-Guide.md",
+    "07-Monitoring/Dashboard-Configs.md",
+    "06-Decisions/Networking-Strategy.md",
+    "07-Monitoring",
+    "06-Decisions/Database-Strategy.md",
+    "06-Decisions/Architecture-Overview.md",
+    "05-Learning/Networking-Concepts.md",
+    "05-Learning/PostgreSQL-Notes.md",
+    "05-Learning/Traefik-Notes.md",
+    "05-Learning/Docker-Notes.md",
+    "05-Learning",
+    "06-Decisions",
+    "04-Procedures/Troubleshooting.md",
+    "04-Procedures/Backup-Restore.md",
+    "04-Procedures/Adding-New-Service.md",
+    "04-Procedures",
+    "03-Configs/raspberry-pi/README.md",
+    "03-Configs/raspberry-pi",
+    "03-Configs/mothership/README.md",
+    "03-Configs/mothership",
+    "03-Configs",
+    "02-Services/_Service-Template.md",
+    "02-Services/Service-Inventory.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
