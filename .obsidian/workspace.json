@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "116bdcac063cb612",
+        "id": "eaa36af7eaa82120",
         "type": "tabs",
         "children": [
           {
-            "id": "d5f7dca588c15a68",
+            "id": "5b72822ac728828f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "06-Decisions/Networking-Strategy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Networking-Strategy"
+            }
+          },
+          {
+            "id": "42209f62f1e72f13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Decisions/Networking-Strategy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Networking-Strategy"
             }
           }
         ]
@@ -165,8 +183,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "d5f7dca588c15a68",
+  "active": "5b72822ac728828f",
   "lastOpenFiles": [
+    "01-Infrastructure/Network.md",
+    "06-Decisions/Networking-Strategy.md",
+    "06-Decisions/Network-Migration.md",
+    "01-Infrastructure/Hardware.md",
+    "04-Procedures/Adding-New-Service.md",
+    "01-Infrastructure/Storage.md",
+    "06-Decisions/Database-Strategy.md",
+    "02-Services/Service-Inventory.md",
+    "02-Services/_Service-Template.md",
+    "00-INDEX.md",
     "09-Project-Mangement/Roadmap.md",
     "10-Archive",
     "09-Project-Mangement/Future-Ideas.md",
@@ -176,14 +204,11 @@
     "08-Automation/Cron-Jobs.md",
     "08-Automation/Scripts.md",
     "08-Automation/n8n-Workflows.md",
-    "00-INDEX.md",
     "08-Automation",
     "Current-State-Documentation.md",
     "07-Monitoring/Metrics-Guide.md",
     "07-Monitoring/Dashboard-Configs.md",
-    "06-Decisions/Networking-Strategy.md",
     "07-Monitoring",
-    "06-Decisions/Database-Strategy.md",
     "06-Decisions/Architecture-Overview.md",
     "05-Learning/Networking-Concepts.md",
     "05-Learning/PostgreSQL-Notes.md",
@@ -192,16 +217,10 @@
     "05-Learning",
     "06-Decisions",
     "04-Procedures/Troubleshooting.md",
-    "04-Procedures/Backup-Restore.md",
-    "04-Procedures/Adding-New-Service.md",
     "04-Procedures",
-    "03-Configs/raspberry-pi/README.md",
     "03-Configs/raspberry-pi",
-    "03-Configs/mothership/README.md",
     "03-Configs/mothership",
     "03-Configs",
-    "02-Services/_Service-Template.md",
-    "02-Services/Service-Inventory.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
