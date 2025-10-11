@@ -113,6 +113,7 @@ Services (Tiered Access)
 | **CNAME** | `monitor`            | admin.ashlasky.com                           | DNS only   | **Grafana Dashboard**               |
 | **CNAME** | `vault`              | admin.ashlasky.com                           | DNS only   | **Vault Warden**                    |
 | **CNAME** | `admintv`            | admin.ashlasky.com                           | DNS only   | **Private Jellyfin**                |
+| **CNAME** | `proxy`              | admin.ashlasky.com                           | DNS only   | **Traefik Dashboard**               |
 |           |                      |                                              |            |                                     |
 | **A**     | `minecraft`          | `109.67.151.17` - **Static IP**              | DNS only   | Minecraft server IP                 |
 | **CNAME** | `mc`                 | `minecraft.ashlasky.com`                     | DNS only   | Minecraft short name                |
